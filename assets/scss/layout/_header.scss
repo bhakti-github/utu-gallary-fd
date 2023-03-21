@@ -1,0 +1,25 @@
+.header-wrapper{
+    padding: 20px;
+    .logo{
+        display: flex;
+        align-items: center;
+    }
+    figure{
+        height: 70px;
+        width: 40px;
+        margin-right: 30px;
+        img{
+            height: 100%,
+        }
+    }
+    @include text-center;
+    ul{
+        @include text-center;
+    li{
+        margin-right: 40px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    }
+
+}

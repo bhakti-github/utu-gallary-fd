@@ -1,0 +1,23 @@
+{
+  "name": "utu-gallary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass assets/scss/styles.scss assets/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhakti-github/utu-gallary-fd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhakti-github/utu-gallary-fd/issues"
+  },
+  "homepage": "https://github.com/bhakti-github/utu-gallary-fd#readme",
+  "dependencies": {
+    "sass": "^1.59.3"
+  }
+}
